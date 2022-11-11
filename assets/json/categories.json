@@ -1,0 +1,588 @@
+{
+    "categories": [
+        {
+            "id": "98",
+            "name": "Clothing",
+            "image": "https://soukchic.ae/live/categories/165175463665800BrEGX.png",
+            "children": [
+                {
+                    "id": "99",
+                    "name": "Tops",
+                    "image": "https://soukchic.ae/live/categories/16457852711518PTjUG1.gif",
+                    "children": [
+                        {
+                            "id": "117",
+                            "name": "Coats & Jackets",
+                            "image": "https://soukchic.ae/live/categories/16378302932504POgAty.png",
+                            "children": []
+                        },
+                        {
+                            "id": "118",
+                            "name": "Tank Tops",
+                            "image": "https://soukchic.ae/live/categories/16378303238387fdQHPe.png",
+                            "children": []
+                        },
+                        {
+                            "id": "119",
+                            "name": "Halter Tops",
+                            "image": "https://soukchic.ae/live/categories/163783032629521spHTX.png",
+                            "children": []
+                        },
+                        {
+                            "id": "120",
+                            "name": "Bodysuits",
+                            "image": "https://soukchic.ae/live/categories/16378303489793DKoNEe.png",
+                            "children": []
+                        },
+                        {
+                            "id": "144",
+                            "name": "Sweaters & Cardigans",
+                            "image": "https://soukchic.ae/live/categories/16378304251238gRiBqZ.png",
+                            "children": []
+                        },
+                        {
+                            "id": "145",
+                            "name": "Rompers",
+                            "image": "https://soukchic.ae/live/categories/16378304411462pmz8WI.png",
+                            "children": []
+                        },
+                        {
+                            "id": "146",
+                            "name": "Sweatshirts",
+                            "image": "https://soukchic.ae/live/categories/16378304331540g7nxaB.png",
+                            "children": []
+                        },
+                        {
+                            "id": "147",
+                            "name": "Blazers",
+                            "image": "https://soukchic.ae/live/categories/16378304824647Et4eL8.png",
+                            "children": []
+                        },
+                        {
+                            "id": "148",
+                            "name": "Waistcoat",
+                            "image": "https://soukchic.ae/live/categories/16378305183587BYk0uj.png",
+                            "children": []
+                        },
+                        {
+                            "id": "149",
+                            "name": "Coordinates",
+                            "image": "https://soukchic.ae/live/categories/16378305235933JxZeAX.png",
+                            "children": []
+                        },
+                        {
+                            "id": "150",
+                            "name": "Denims",
+                            "image": "https://soukchic.ae/live/categories/16378305279683CZ1FWD.png",
+                            "children": []
+                        },
+                        {
+                            "id": "151",
+                            "name": "Blouses",
+                            "image": "https://soukchic.ae/live/categories/16378305337515t6TuC5.png",
+                            "children": []
+                        },
+                        {
+                            "id": "303",
+                            "name": "Jumpsuits",
+                            "image": "https://soukchic.ae/live/categories/16378305715325kw9JIz.png",
+                            "children": []
+                        },
+                        {
+                            "id": "304",
+                            "name": "Tshirt",
+                            "image": "https://soukchic.ae/live/categories/16378305753744nOepYB.png",
+                            "children": []
+                        },
+                        {
+                            "id": "305",
+                            "name": "Crop Tops",
+                            "image": "https://soukchic.ae/live/categories/16378305837685U90A6H.png",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "134",
+                    "name": "Dresses",
+                    "image": "https://soukchic.ae/live/categories/16457853887382bvYRps.gif",
+                    "children": [
+                        {
+                            "id": "155",
+                            "name": "Mini Dresses",
+                            "image": "https://soukchic.ae/live/categories/16378313787929OUDreb.png",
+                            "children": []
+                        },
+                        {
+                            "id": "156",
+                            "name": "Midi Dresses",
+                            "image": "https://soukchic.ae/live/categories/16378313802345k8nhI5.png",
+                            "children": []
+                        },
+                        {
+                            "id": "157",
+                            "name": "Maxi Dresses",
+                            "image": "https://soukchic.ae/live/categories/16378313852202z2TBiq.png",
+                            "children": []
+                        },
+                        {
+                            "id": "158",
+                            "name": "Casual Dresses",
+                            "image": "https://soukchic.ae/live/categories/16378313916060KeOLZD.png",
+                            "children": []
+                        },
+                        {
+                            "id": "159",
+                            "name": "Print Dresses",
+                            "image": "https://soukchic.ae/live/categories/1637831397861119xbMT.png",
+                            "children": []
+                        },
+                        {
+                            "id": "160",
+                            "name": "Party Dresses",
+                            "image": "https://soukchic.ae/live/categories/163783140370200CbAsr.png",
+                            "children": []
+                        },
+                        {
+                            "id": "161",
+                            "name": "Bohemian Dresses",
+                            "image": "https://soukchic.ae/live/categories/16378314084621lzMsLT.png",
+                            "children": []
+                        },
+                        {
+                            "id": "162",
+                            "name": "Long Sleeve Dresses",
+                            "image": "https://soukchic.ae/live/categories/16378314131296e6cZ4Y.png",
+                            "children": []
+                        },
+                        {
+                            "id": "163",
+                            "name": "Sweater Dresses and Knitwear",
+                            "image": "https://soukchic.ae/live/categories/16378314209767F9XPSB.png",
+                            "children": []
+                        },
+                        {
+                            "id": "164",
+                            "name": "Bodycon Dresses",
+                            "image": "https://soukchic.ae/live/categories/16378314495260wmO0bN.png",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "135",
+                    "name": "Bottoms",
+                    "image": "https://soukchic.ae/live/categories/16457853947706tARfOq.gif",
+                    "children": [
+                        {
+                            "id": "121",
+                            "name": "Skirts",
+                            "image": "https://soukchic.ae/live/categories/16378329943046gdMhS7.png",
+                            "children": []
+                        },
+                        {
+                            "id": "152",
+                            "name": "Shorts",
+                            "image": "https://soukchic.ae/live/categories/16378329716358OuL9Vx.png",
+                            "children": []
+                        },
+                        {
+                            "id": "153",
+                            "name": "Leggings",
+                            "image": "https://soukchic.ae/live/categories/16378330574857R2yl31.png",
+                            "children": []
+                        },
+                        {
+                            "id": "154",
+                            "name": "Jeans",
+                            "image": "https://soukchic.ae/live/categories/16378330633226wTolbe.png",
+                            "children": []
+                        },
+                        {
+                            "id": "306",
+                            "name": "Pants",
+                            "image": "https://soukchic.ae/live/categories/16320310501629701638Pants.png",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "136",
+                    "name": "Intimates",
+                    "image": "https://soukchic.ae/live/categories/16457854514006rMsgaj.gif",
+                    "children": [
+                        {
+                            "id": "165",
+                            "name": "Sexy Lingerie",
+                            "image": "https://soukchic.ae/live/categories/163783329813522B5bQZ.png",
+                            "children": []
+                        },
+                        {
+                            "id": "166",
+                            "name": "Bralette",
+                            "image": "https://soukchic.ae/live/categories/163783329828950t5BZg.png",
+                            "children": []
+                        },
+                        {
+                            "id": "167",
+                            "name": "Pajama Sets",
+                            "image": "https://soukchic.ae/live/categories/16378332987051VfSsnN.png",
+                            "children": []
+                        },
+                        {
+                            "id": "168",
+                            "name": "Underwear",
+                            "image": "https://soukchic.ae/live/categories/16378332567307StCjFf.png",
+                            "children": []
+                        },
+                        {
+                            "id": "169",
+                            "name": "Shapewear",
+                            "image": "https://soukchic.ae/live/categories/16378332975011pIN2hE.png",
+                            "children": []
+                        },
+                        {
+                            "id": "307",
+                            "name": "Bras",
+                            "image": "https://soukchic.ae/live/categories/16378332976468xAtnie.png",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "100",
+            "name": "Shoes",
+            "image": "https://soukchic.ae/live/categories/16517546468448lE3Chw.png",
+            "children": [
+                {
+                    "id": "170",
+                    "name": "Casual",
+                    "image": "https://soukchic.ae/live/categories/1645785558231435blwZ.gif",
+                    "children": [
+                        {
+                            "id": "174",
+                            "name": "Slippers",
+                            "image": "https://soukchic.ae/live/categories/163783361226057uiIK0.png",
+                            "children": []
+                        },
+                        {
+                            "id": "175",
+                            "name": "Flats",
+                            "image": "https://soukchic.ae/live/categories/16378335149781PUNQRA.png",
+                            "children": []
+                        },
+                        {
+                            "id": "176",
+                            "name": "Sandals",
+                            "image": "https://soukchic.ae/live/categories/16378335194285tj8VeC.png",
+                            "children": []
+                        },
+                        {
+                            "id": "308",
+                            "name": "Sliders",
+                            "image": "https://soukchic.ae/live/categories/16378335269202kGP2Fb.png",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "171",
+                    "name": "Active",
+                    "image": "https://soukchic.ae/live/categories/16457855485977duhRIE.gif",
+                    "children": [
+                        {
+                            "id": "177",
+                            "name": "Sneakers",
+                            "image": "https://soukchic.ae/live/categories/16378335866682j5xI4Y.png",
+                            "children": []
+                        },
+                        {
+                            "id": "178",
+                            "name": "Athletic",
+                            "image": "https://soukchic.ae/live/categories/16378336012123B2SIEc.png",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "172",
+                    "name": "Glam",
+                    "image": "https://soukchic.ae/live/categories/16457855763268JNq65F.gif",
+                    "children": [
+                        {
+                            "id": "101",
+                            "name": "Heels & Pumps",
+                            "image": "https://soukchic.ae/live/categories/16378337374647Nd52lu.png",
+                            "children": []
+                        },
+                        {
+                            "id": "179",
+                            "name": "Wedges",
+                            "image": "https://soukchic.ae/live/categories/16378337427282IVXA0f.png",
+                            "children": []
+                        },
+                        {
+                            "id": "180",
+                            "name": "Boots",
+                            "image": "https://soukchic.ae/live/categories/16378337447871JqFDYz.png",
+                            "children": []
+                        },
+                        {
+                            "id": "309",
+                            "name": "Flatforms",
+                            "image": "https://soukchic.ae/live/categories/16378337506940dXkpvB.png",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "173",
+                    "name": "Accessories",
+                    "image": "https://soukchic.ae/live/categories/16457855581583D8o6nj.gif",
+                    "children": [
+                        {
+                            "id": "181",
+                            "name": "Socks",
+                            "image": "https://soukchic.ae/live/categories/16378338622964ghGUxp.png",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "104",
+            "name": "Bags",
+            "image": "https://soukchic.ae/live/categories/16517546682549W9h43X.png",
+            "children": [
+                {
+                    "id": "182",
+                    "name": "Style",
+                    "image": "https://soukchic.ae/live/categories/16457856182088UfzdFi.gif",
+                    "children": [
+                        {
+                            "id": "105",
+                            "name": "Hand Bags",
+                            "image": "https://soukchic.ae/live/categories/16378342442829inpz6K.png",
+                            "children": []
+                        },
+                        {
+                            "id": "184",
+                            "name": "Clutches",
+                            "image": "https://soukchic.ae/live/categories/16378342516782uwEmAG.png",
+                            "children": []
+                        },
+                        {
+                            "id": "185",
+                            "name": "Crossbody Bags",
+                            "image": "https://soukchic.ae/live/categories/16378342432131fz0ZlR.png",
+                            "children": []
+                        },
+                        {
+                            "id": "186",
+                            "name": "Shoulder Bags",
+                            "image": "https://soukchic.ae/live/categories/16378341062009nAeVP6.png",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "183",
+                    "name": "Daily Use",
+                    "image": "https://soukchic.ae/live/categories/16457856228144rW0FKS.gif",
+                    "children": [
+                        {
+                            "id": "187",
+                            "name": "Wallets",
+                            "image": "https://soukchic.ae/live/categories/16378343074662o9OdF4.png",
+                            "children": []
+                        },
+                        {
+                            "id": "188",
+                            "name": "Backpacks",
+                            "image": "https://soukchic.ae/live/categories/16378343387196tW5eix.png",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "108",
+            "name": "Skincare",
+            "image": "https://soukchic.ae/live/categories/16517547087349V46qvD.png",
+            "children": [
+                {
+                    "id": "189",
+                    "name": "Cleansers & Toners",
+                    "image": "https://soukchic.ae/live/categories/164578572726756JA1gE.gif",
+                    "children": [
+                        {
+                            "id": "109",
+                            "name": "Facial Washes",
+                            "image": "https://soukchic.ae/live/categories/16378376698857tL0cdE.png",
+                            "children": []
+                        },
+                        {
+                            "id": "193",
+                            "name": "Cleansing Wipes",
+                            "image": "https://soukchic.ae/live/categories/16378376634273QqWx2a.png",
+                            "children": []
+                        },
+                        {
+                            "id": "194",
+                            "name": "Cleansing Balms",
+                            "image": "https://soukchic.ae/live/categories/16378376869030PvWs7t.png",
+                            "children": []
+                        },
+                        {
+                            "id": "195",
+                            "name": "Makeup Removers",
+                            "image": "https://soukchic.ae/live/categories/16378376972071oKCeEf.png",
+                            "children": []
+                        },
+                        {
+                            "id": "196",
+                            "name": "Toners",
+                            "image": "https://soukchic.ae/live/categories/16378376785946vMHWKu.png",
+                            "children": []
+                        },
+                        {
+                            "id": "310",
+                            "name": "Cleansing Oils",
+                            "image": "https://soukchic.ae/live/categories/163783764917226sgr9G.png",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "190",
+                    "name": "Serums & Treatments",
+                    "image": "https://soukchic.ae/live/categories/16457857292500VsMuKx.gif",
+                    "children": [
+                        {
+                            "id": "197",
+                            "name": "Exfoliators",
+                            "image": "https://soukchic.ae/live/categories/16378378456421Y5z0jA.png",
+                            "children": []
+                        },
+                        {
+                            "id": "198",
+                            "name": "Essences",
+                            "image": "https://soukchic.ae/live/categories/163783783762953q9NJ6.png",
+                            "children": []
+                        },
+                        {
+                            "id": "199",
+                            "name": "Serums",
+                            "image": "https://soukchic.ae/live/categories/16378378647721eywJtj.png",
+                            "children": []
+                        },
+                        {
+                            "id": "200",
+                            "name": "Face Mask",
+                            "image": "https://soukchic.ae/live/categories/16378378565445RYpoUC.png",
+                            "children": []
+                        },
+                        {
+                            "id": "201",
+                            "name": "Blemish Treatments",
+                            "image": "https://soukchic.ae/live/categories/16378378753708VfWZcS.png",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "191",
+                    "name": "Moisturizers",
+                    "image": "https://soukchic.ae/live/categories/16457857328435k1VX6E.gif",
+                    "children": [
+                        {
+                            "id": "202",
+                            "name": "Facial Moisturizers",
+                            "image": "https://soukchic.ae/live/categories/16378381031332Skv2nu.png",
+                            "children": []
+                        },
+                        {
+                            "id": "203",
+                            "name": "Facial Oils",
+                            "image": "https://soukchic.ae/live/categories/16378380961407tfgpFl.png",
+                            "children": []
+                        },
+                        {
+                            "id": "204",
+                            "name": "Night Creams",
+                            "image": "https://soukchic.ae/live/categories/16378380862703OfG31E.png",
+                            "children": []
+                        },
+                        {
+                            "id": "205",
+                            "name": "Face Mists",
+                            "image": "https://soukchic.ae/live/categories/16378381354122O0Q8AI.png",
+                            "children": []
+                        },
+                        {
+                            "id": "206",
+                            "name": "Tone Up Creams",
+                            "image": "https://soukchic.ae/live/categories/16378381135951kgwmo0.png",
+                            "children": []
+                        },
+                        {
+                            "id": "652",
+                            "name": "Hand Cream",
+                            "image": "https://soukchic.ae/live/categories/16419709309773COdBRY.png",
+                            "children": []
+                        },
+                        {
+                            "id": "653",
+                            "name": "Sunblock",
+                            "image": "https://soukchic.ae/live/categories/16419709309773COdBRY.png",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "192",
+                    "name": "Skincare Tools",
+                    "image": "https://soukchic.ae/live/categories/16457857279093hiY6Ny.gif",
+                    "children": [
+                        {
+                            "id": "207",
+                            "name": "Cleansing Tools",
+                            "image": "https://soukchic.ae/live/categories/16378382954556EI5XCR.png",
+                            "children": []
+                        },
+                        {
+                            "id": "208",
+                            "name": "Application Tools",
+                            "image": "https://soukchic.ae/live/categories/16378382635650c0JyvA.png",
+                            "children": []
+                        },
+                        {
+                            "id": "209",
+                            "name": "Mask Devices",
+                            "image": "https://soukchic.ae/live/categories/16378382703468boTlLk.png",
+                            "children": []
+                        },
+                        {
+                            "id": "210",
+                            "name": "Skincare Storage Devices",
+                            "image": "https://soukchic.ae/live/categories/16378382776196v6HsqD.png",
+                            "children": []
+                        },
+                        {
+                            "id": "311",
+                            "name": "Facial Sauna",
+                            "image": "https://soukchic.ae/live/categories/16378382855941EQNWU1.png",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "status": "0",
+    "messages": "Categories List"
+}

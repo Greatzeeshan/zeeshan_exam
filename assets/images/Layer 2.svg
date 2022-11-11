@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="Layer_2" data-name="Layer 2" transform="translate(-5 -2)">
+    <g id="menu-2" transform="translate(3)">
+      <rect id="Rectangle_17270" data-name="Rectangle 17270" width="25" height="25" transform="translate(27 27) rotate(180)" fill="#13171d" opacity="0"/>
+      <g id="Group_12050" data-name="Group 12050" transform="translate(1 0.909)">
+        <circle id="Ellipse_658" data-name="Ellipse 658" cx="1" cy="1" r="1" transform="translate(3 13)" fill="#13171d"/>
+        <rect id="Rectangle_17271" data-name="Rectangle 17271" width="14" height="2" rx="0.94" transform="translate(11 13)" fill="#13171d"/>
+        <rect id="Rectangle_17272" data-name="Rectangle 17272" width="22" height="2" rx="0.94" transform="translate(3 18.909)" fill="#13171d"/>
+        <rect id="Rectangle_17273" data-name="Rectangle 17273" width="22" height="2" rx="0.94" transform="translate(3 7.091)" fill="#13171d"/>
+      </g>
+    </g>
+  </g>
+</svg>
